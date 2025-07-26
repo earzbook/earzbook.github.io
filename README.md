@@ -42,15 +42,15 @@ We do not share your information with third parties except in the following situ
 
 ### SECURITY OF YOUR INFORMATION
 
-We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
+We use administrative, technical, and physical security measures to help protect your personal information. All data is encrypted in transit, meaning it is encrypted before being sent to our servers. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
 
 ### DATA RETENTION AND DELETION
 
 We will retain your information for as long as your account is active or as needed to provide you services.
 
 - **User Control:** You can delete your transcriptions at any time. Deleted transcriptions are moved to a "trash" folder within the Application.
-- **Automatic Deletion:** Trashed items are automatically and permanently deleted from our servers after 30 days.
-- **Account Deletion:** You can delete your account at any time from the settings screen. This action is irreversible and will permanently delete all of your data from our servers.
+- **Automatic Deletion:** Trashed items are automatically and permanently deleted from our servers after 30 days. You also have the option to instantly permanently delete them manually before this period.
+- **Account Deletion:** You can delete your account at any time from the settings screen. This action is irreversible and will permanently delete all of your associated transcription data from our servers.
 
 ### CONTACT US
 
